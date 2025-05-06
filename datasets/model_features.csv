@@ -1,0 +1,74 @@
+0
+combination_mpg
+cylinders
+displacement
+Year
+Engine HP
+Engine Cylinders
+Number of Doors
+MSRP
+Make_aston martin
+Make_audi
+Make_bentley
+Make_cadillac
+Make_chrysler
+Make_hyundai
+Make_kia
+Make_mazda
+Make_mitsubishi
+Make_nissan
+Make_porsche
+Make_subaru
+Model_a4
+Model_cayenne
+Model_db9
+Model_elantra
+Model_elantra gt
+Model_equus
+Model_gt-r
+Model_i-miev
+Model_ilx
+Model_k900
+Model_mirage
+Model_mulsanne
+Model_murano crosscabriolet
+Model_pacifica
+Model_q7
+Model_r8
+Model_rapide s
+Model_rlx
+Model_sedona
+Model_vanquish
+Model_veloster
+Model_wrx
+Model_xt5
+Transmission Type_AUTOMATIC
+Transmission Type_DIRECT_DRIVE
+Transmission Type_MANUAL
+Driven_Wheels_front wheel drive
+Driven_Wheels_rear wheel drive
+"Market Category_Crossover,Luxury"
+"Market Category_Crossover,Luxury,Diesel"
+"Market Category_Crossover,Luxury,High-Performance"
+"Market Category_Crossover,Luxury,Performance"
+"Market Category_Exotic,Factory Tuner,Luxury,High-Performance"
+"Market Category_Exotic,High-Performance"
+"Market Category_Exotic,Luxury,High-Performance"
+"Market Category_Factory Tuner,High-Performance"
+Market Category_Hatchback
+"Market Category_Hatchback,Performance"
+Market Category_High-Performance
+Market Category_Luxury
+"Market Category_Luxury,High-Performance"
+"Market Category_Luxury,High-Performance,Hybrid"
+"Market Category_Luxury,Performance"
+Market Category_Performance
+Vehicle Size_Large
+Vehicle Size_Midsize
+Vehicle Style_4dr Hatchback
+Vehicle Style_4dr SUV
+Vehicle Style_Convertible
+Vehicle Style_Convertible SUV
+Vehicle Style_Coupe
+Vehicle Style_Passenger Minivan
+Vehicle Style_Sedan

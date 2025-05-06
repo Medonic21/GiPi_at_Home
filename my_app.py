@@ -2,53 +2,53 @@ import streamlit as st
 import pandas as pd
 import pickle
 
-# Load the trained model from .sav
+# Load trained model
 with open('trained_model.sav', 'rb') as f:
     model = pickle.load(f)
 
+# Load dataset used for predictions
+df = pd.read_csv('Dataset.csv')  # Must include Make, Model, Year, and all model input features
+
 st.title("Car Deal Evaluator 🚗")
+st.markdown("Select your car to evaluate whether it's a good deal.")
 
-st.markdown("Fill in the car details below to see if it's a good deal for you.")
+# --- Dropdown Selections ---
+make_options = sorted(df['Make'].unique())
+selected_make = st.selectbox("Select Make", make_options)
 
-# --- User Inputs ---
-engine_hp = st.number_input("Engine HP", min_value=50, max_value=1000, value=200)
-displacement = st.number_input("Engine Displacement (L)", min_value=1.0, max_value=10.0, value=2.5)
-mpg = st.number_input("Combined MPG", min_value=5, max_value=100, value=25)
-msrp = st.number_input("MSRP ($)", min_value=5000, max_value=300000, value=35000)
+# Filter models based on selected make
+filtered_models = df[df['Make'] == selected_make]['Model'].unique()
+selected_model = st.selectbox("Select Model", sorted(filtered_models))
 
-vehicle_size = st.selectbox("Vehicle Size", ['Compact', 'Midsize', 'Large'])
-vehicle_style = st.selectbox("Vehicle Style", ['Sedan', 'SUV', 'Coupe', 'Convertible', 'Hatchback', 'Wagon'])
+# Filter years based on selected make and model
+filtered_years = df[(df['Make'] == selected_make) & (df['Model'] == selected_model)]['Year'].unique()
+selected_year = st.selectbox("Select Year", sorted(filtered_years, reverse=True))
 
-# --- Input Preparation ---
-# One-hot encoding simulation (based on training encoding logic)
-input_dict = {
-    'Engine HP': engine_hp,
-    'displacement': displacement,
-    'combination_mpg': mpg,
-    'MSRP': msrp,
-    'Number of Doors': 4,  # Default assumption, or make it user input
-}
+# --- Matching the Row ---
+matched_rows = df[
+    (df['Make'] == selected_make) &
+    (df['Model'] == selected_model) &
+    (df['Year'] == selected_year)
+]
 
-# Add encoded columns for Vehicle Size
-for size in ['Midsize', 'Large']:
-    input_dict[f'Vehicle Size_{size}'] = 1 if vehicle_size == size else 0
+if not matched_rows.empty:
+    car_features = matched_rows.iloc[0]  # Take the first match if duplicates exist
+    st.subheader("Auto-filled Car Attributes:")
+    st.write(car_features)
 
-# Add encoded columns for Vehicle Style
-styles = ['Coupe', 'Convertible', 'Hatchback', 'SUV', 'Wagon']
-for style in styles:
-    input_dict[f'Vehicle Style_{style}'] = 1 if vehicle_style == style else 0
+    # Prepare input_dict based on the model’s features
+    input_dict = {}
+    for col in model.feature_names_in_:
+        input_dict[col] = car_features.get(col, 0)
 
-# Make sure all expected columns are present
-input_df = pd.DataFrame([input_dict])
-for col in model.feature_names_in_:
-    if col not in input_df.columns:
-        input_df[col] = 0
-input_df = input_df[model.feature_names_in_]
+    input_df = pd.DataFrame([input_dict])
 
-# --- Prediction ---
-if st.button("Check Deal"):
-    prediction = model.predict(input_df)[0]
-    if prediction == 1:
-        st.success("✅ This is a GOOD deal!")
-    else:
-        st.warning("❌ This might NOT be a good deal.")
+    # --- Prediction ---
+    if st.button("Check Deal"):
+        prediction = model.predict(input_df)[0]
+        if prediction == 1:
+            st.success("✅ This is a GOOD deal!")
+        else:
+            st.warning("❌ This might NOT be a good deal.")
+else:
+    st.warning("No matching car found in the dataset.")

@@ -1,0 +1,254 @@
+combination_mpg,cylinders,displacement,Make,Model,Year,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Number of Doors,Market Category,Vehicle Size,Vehicle Style,MSRP
+19,6.0,3.5,nissan,murano crosscabriolet,2014,265.0,6.0,AUTOMATIC,all wheel drive,2.0,Crossover,Midsize,Convertible SUV,41995
+16,10.0,5.2,audi,r8,2014,525.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,164700
+16,10.0,5.2,audi,r8,2014,430.0,8.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,128400
+16,10.0,5.2,audi,r8,2014,550.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,179645
+16,10.0,5.2,audi,r8,2014,525.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,173800
+16,10.0,5.2,audi,r8,2014,430.0,8.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,137500
+16,10.0,5.2,audi,r8,2014,525.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,151200
+16,10.0,5.2,audi,r8,2014,430.0,8.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,124000
+16,10.0,5.2,audi,r8,2014,430.0,8.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,114900
+16,10.0,5.2,audi,r8,2014,525.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,160300
+16,10.0,5.2,audi,r8,2014,550.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,170545
+17,8.0,4.2,audi,r8,2014,525.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,164700
+17,8.0,4.2,audi,r8,2014,430.0,8.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,128400
+17,8.0,4.2,audi,r8,2014,550.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,179645
+17,8.0,4.2,audi,r8,2014,525.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,173800
+17,8.0,4.2,audi,r8,2014,430.0,8.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,137500
+17,8.0,4.2,audi,r8,2014,525.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,151200
+17,8.0,4.2,audi,r8,2014,430.0,8.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,124000
+17,8.0,4.2,audi,r8,2014,430.0,8.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,114900
+17,8.0,4.2,audi,r8,2014,525.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,160300
+17,8.0,4.2,audi,r8,2014,550.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,170545
+14,10.0,5.2,audi,r8,2014,525.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,164700
+14,10.0,5.2,audi,r8,2014,430.0,8.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,128400
+14,10.0,5.2,audi,r8,2014,550.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,179645
+14,10.0,5.2,audi,r8,2014,525.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,173800
+14,10.0,5.2,audi,r8,2014,430.0,8.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,137500
+14,10.0,5.2,audi,r8,2014,525.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,151200
+14,10.0,5.2,audi,r8,2014,430.0,8.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,124000
+14,10.0,5.2,audi,r8,2014,430.0,8.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,114900
+14,10.0,5.2,audi,r8,2014,525.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,160300
+14,10.0,5.2,audi,r8,2014,550.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,170545
+14,8.0,4.2,audi,r8,2014,525.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,164700
+14,8.0,4.2,audi,r8,2014,430.0,8.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,128400
+14,8.0,4.2,audi,r8,2014,550.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,179645
+14,8.0,4.2,audi,r8,2014,525.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,173800
+14,8.0,4.2,audi,r8,2014,430.0,8.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Convertible,137500
+14,8.0,4.2,audi,r8,2014,525.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,151200
+14,8.0,4.2,audi,r8,2014,430.0,8.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,124000
+14,8.0,4.2,audi,r8,2014,430.0,8.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,114900
+14,8.0,4.2,audi,r8,2014,525.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,160300
+14,8.0,4.2,audi,r8,2014,550.0,10.0,MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,170545
+15,12.0,5.9,aston martin,db9,2014,510.0,12.0,AUTOMATIC,rear wheel drive,2.0,"Exotic,High-Performance",Midsize,Convertible,200800
+15,12.0,5.9,aston martin,db9,2014,510.0,12.0,AUTOMATIC,rear wheel drive,2.0,"Exotic,High-Performance",Midsize,Coupe,185800
+15,12.0,5.9,aston martin,vanquish,2014,565.0,12.0,AUTOMATIC,rear wheel drive,2.0,"Exotic,High-Performance",Midsize,Convertible,296295
+15,12.0,5.9,aston martin,vanquish,2014,565.0,12.0,AUTOMATIC,rear wheel drive,2.0,"Exotic,High-Performance",Midsize,Coupe,278295
+15,12.0,5.9,aston martin,rapide s,2014,550.0,12.0,AUTOMATIC,rear wheel drive,4.0,"Exotic,High-Performance",Large,Sedan,198250
+19,6.0,3.8,nissan,gt-r,2015,545.0,6.0,AUTOMATED_MANUAL,all wheel drive,2.0,High-Performance,Midsize,Coupe,111510
+19,6.0,3.8,nissan,gt-r,2015,545.0,6.0,AUTOMATED_MANUAL,all wheel drive,2.0,High-Performance,Midsize,Coupe,115710
+19,6.0,3.8,nissan,gt-r,2015,545.0,6.0,AUTOMATED_MANUAL,all wheel drive,2.0,High-Performance,Midsize,Coupe,101770
+19,6.0,3.8,nissan,gt-r,2015,600.0,6.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Factory Tuner,High-Performance",Midsize,Coupe,149990
+30,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,24895
+30,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,22895
+30,4.0,2.5,mazda,6,2015,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,23845
+30,4.0,2.5,mazda,6,2015,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,21190
+30,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,29895
+32,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,24895
+32,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,22895
+32,4.0,2.5,mazda,6,2015,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,23845
+32,4.0,2.5,mazda,6,2015,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,21190
+32,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,29895
+29,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,24895
+29,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,22895
+29,4.0,2.5,mazda,6,2015,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,23845
+29,4.0,2.5,mazda,6,2015,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,21190
+29,4.0,2.5,mazda,6,2015,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,29895
+21,6.0,3.8,kia,k900,2015,420.0,8.0,AUTOMATIC,rear wheel drive,4.0,"Luxury,High-Performance",Large,Sedan,59900
+21,6.0,3.8,kia,k900,2015,420.0,8.0,AUTOMATIC,rear wheel drive,4.0,"Luxury,High-Performance",Large,Sedan,54500
+18,8.0,5.0,kia,k900,2015,420.0,8.0,AUTOMATIC,rear wheel drive,4.0,"Luxury,High-Performance",Large,Sedan,59900
+18,8.0,5.0,kia,k900,2015,420.0,8.0,AUTOMATIC,rear wheel drive,4.0,"Luxury,High-Performance",Large,Sedan,54500
+24,4.0,2.0,subaru,wrx,2015,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,37395
+24,4.0,2.0,subaru,wrx,2015,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,31195
+24,4.0,2.0,subaru,wrx,2015,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,38495
+24,4.0,2.0,subaru,wrx,2015,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,34495
+24,4.0,2.0,subaru,wrx,2015,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,29995
+24,4.0,2.0,subaru,wrx,2015,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,29695
+24,4.0,2.0,subaru,wrx,2015,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,26295
+24,4.0,2.0,subaru,wrx,2015,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,28495
+19,4.0,2.5,subaru,wrx,2015,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,37395
+19,4.0,2.5,subaru,wrx,2015,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,31195
+19,4.0,2.5,subaru,wrx,2015,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,38495
+19,4.0,2.5,subaru,wrx,2015,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,34495
+19,4.0,2.5,subaru,wrx,2015,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,29995
+19,4.0,2.5,subaru,wrx,2015,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,29695
+19,4.0,2.5,subaru,wrx,2015,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,26295
+19,4.0,2.5,subaru,wrx,2015,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,28495
+30,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,22995
+30,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,24995
+30,4.0,2.5,mazda,6,2016,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,21495
+30,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,30195
+30,4.0,2.5,mazda,6,2016,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,23945
+32,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,22995
+32,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,24995
+32,4.0,2.5,mazda,6,2016,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,21495
+32,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,30195
+32,4.0,2.5,mazda,6,2016,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,23945
+29,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,22995
+29,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,24995
+29,4.0,2.5,mazda,6,2016,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,21495
+29,4.0,2.5,mazda,6,2016,184.0,4.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Sedan,30195
+29,4.0,2.5,mazda,6,2016,184.0,4.0,MANUAL,front wheel drive,4.0,,Midsize,Sedan,23945
+14,8.0,6.8,bentley,mulsanne,2016,505.0,8.0,AUTOMATIC,rear wheel drive,4.0,"Exotic,Luxury,High-Performance",Large,Sedan,303700
+14,8.0,6.8,bentley,mulsanne,2016,530.0,8.0,AUTOMATIC,rear wheel drive,4.0,"Exotic,Factory Tuner,Luxury,High-Performance",Large,Sedan,335600
+31,4.0,1.6,hyundai,veloster,2016,132.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,19100
+31,4.0,1.6,hyundai,veloster,2016,132.0,4.0,MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,18000
+31,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23950
+31,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,21600
+31,4.0,1.6,hyundai,veloster,2016,132.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,19100
+31,4.0,1.6,hyundai,veloster,2016,132.0,4.0,MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,18000
+31,4.0,1.6,hyundai,veloster,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23800
+31,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,22600
+31,4.0,1.6,hyundai,veloster,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23800
+31,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,22600
+30,4.0,1.6,hyundai,veloster,2016,132.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,19100
+30,4.0,1.6,hyundai,veloster,2016,132.0,4.0,MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,18000
+30,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23950
+30,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,21600
+30,4.0,1.6,hyundai,veloster,2016,132.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,19100
+30,4.0,1.6,hyundai,veloster,2016,132.0,4.0,MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,18000
+30,4.0,1.6,hyundai,veloster,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23800
+30,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,22600
+30,4.0,1.6,hyundai,veloster,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23800
+30,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,22600
+27,4.0,2.0,hyundai,elantra gt,2016,173.0,4.0,MANUAL,front wheel drive,4.0,"Hatchback,Performance",Compact,4dr Hatchback,18800
+27,4.0,2.0,hyundai,elantra gt,2016,173.0,4.0,AUTOMATIC,front wheel drive,4.0,"Hatchback,Performance",Compact,4dr Hatchback,19800
+112,,,mitsubishi,i-miev,2016,66.0,,DIRECT_DRIVE,rear wheel drive,4.0,Hatchback,Compact,4dr Hatchback,22995
+29,4.0,2.4,acura,ilx,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Compact,Sedan,34890
+29,4.0,2.4,acura,ilx,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Compact,Sedan,29900
+29,4.0,2.4,acura,ilx,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Compact,Sedan,29200
+29,4.0,2.4,acura,ilx,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Compact,Sedan,31890
+29,4.0,2.4,acura,ilx,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Compact,Sedan,32900
+29,4.0,2.4,acura,ilx,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Compact,Sedan,27900
+27,4.0,2.0,hyundai,elantra gt,2016,173.0,4.0,MANUAL,front wheel drive,4.0,"Hatchback,Performance",Compact,4dr Hatchback,18800
+27,4.0,2.0,hyundai,elantra gt,2016,173.0,4.0,AUTOMATIC,front wheel drive,4.0,"Hatchback,Performance",Compact,4dr Hatchback,19800
+23,6.0,3.5,acura,rlx,2016,310.0,6.0,AUTOMATIC,front wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,54450
+23,6.0,3.5,acura,rlx,2016,377.0,6.0,AUTOMATED_MANUAL,all wheel drive,4.0,"Luxury,High-Performance,Hybrid",Midsize,Sedan,59950
+23,6.0,3.5,acura,rlx,2016,310.0,6.0,AUTOMATIC,front wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,60450
+23,6.0,3.5,acura,rlx,2016,377.0,6.0,AUTOMATED_MANUAL,all wheel drive,4.0,"Luxury,High-Performance,Hybrid",Midsize,Sedan,65950
+23,6.0,3.5,acura,rlx,2016,310.0,6.0,AUTOMATIC,front wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,50950
+19,6.0,3.8,nissan,gt-r,2016,545.0,6.0,AUTOMATED_MANUAL,all wheel drive,2.0,High-Performance,Midsize,Coupe,111510
+19,6.0,3.8,nissan,gt-r,2016,600.0,6.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Factory Tuner,High-Performance",Midsize,Coupe,149990
+19,6.0,3.8,nissan,gt-r,2016,545.0,6.0,AUTOMATED_MANUAL,all wheel drive,2.0,High-Performance,Midsize,Coupe,101770
+29,4.0,1.6,hyundai,veloster,2016,132.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,19100
+29,4.0,1.6,hyundai,veloster,2016,132.0,4.0,MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,18000
+29,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23950
+29,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,21600
+29,4.0,1.6,hyundai,veloster,2016,132.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,19100
+29,4.0,1.6,hyundai,veloster,2016,132.0,4.0,MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,18000
+29,4.0,1.6,hyundai,veloster,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23800
+29,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,22600
+29,4.0,1.6,hyundai,veloster,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23800
+29,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,22600
+28,4.0,1.6,hyundai,veloster,2016,132.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,19100
+28,4.0,1.6,hyundai,veloster,2016,132.0,4.0,MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,18000
+28,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23950
+28,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,21600
+28,4.0,1.6,hyundai,veloster,2016,132.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,19100
+28,4.0,1.6,hyundai,veloster,2016,132.0,4.0,MANUAL,front wheel drive,3.0,Hatchback,Compact,2dr Hatchback,18000
+28,4.0,1.6,hyundai,veloster,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23800
+28,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,22600
+28,4.0,1.6,hyundai,veloster,2016,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,23800
+28,4.0,1.6,hyundai,veloster,2016,201.0,4.0,MANUAL,front wheel drive,3.0,"Hatchback,Performance",Compact,2dr Hatchback,22600
+18,8.0,5.0,hyundai,equus,2016,429.0,8.0,AUTOMATIC,rear wheel drive,4.0,"Luxury,High-Performance",Large,Sedan,68750
+18,8.0,5.0,hyundai,equus,2016,429.0,8.0,AUTOMATIC,rear wheel drive,4.0,"Luxury,High-Performance",Large,Sedan,61500
+20,6.0,3.3,kia,sedona,2016,276.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,28500
+20,6.0,3.3,kia,sedona,2016,276.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,26400
+20,6.0,3.3,kia,sedona,2016,276.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,39900
+20,6.0,3.3,kia,sedona,2016,276.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,32700
+20,6.0,3.3,kia,sedona,2016,276.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,36400
+20,6.0,3.6,porsche,cayenne,2016,440.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury,High-Performance",Midsize,4dr SUV,95500
+20,6.0,3.6,porsche,cayenne,2016,420.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury,Performance",Midsize,4dr SUV,74800
+20,6.0,3.6,porsche,cayenne,2016,520.0,8.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury,Performance",Midsize,4dr SUV,114700
+20,6.0,3.6,porsche,cayenne,2016,300.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury",Midsize,4dr SUV,58300
+20,6.0,3.6,porsche,cayenne,2016,570.0,8.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury,High-Performance",Midsize,4dr SUV,157300
+20,6.0,3.6,porsche,cayenne,2016,240.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury,Diesel",Midsize,4dr SUV,62300
+21,6.0,3.0,audi,q7,2017,333.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury,Performance",Large,4dr SUV,58800
+21,6.0,3.0,audi,q7,2017,333.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury,Performance",Large,4dr SUV,64300
+21,6.0,3.0,audi,q7,2017,333.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury,Performance",Large,4dr SUV,54800
+32,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,18150
+32,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,22350
+32,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,18150
+32,4.0,2.0,hyundai,elantra,2017,128.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,,Compact,Sedan,20650
+32,4.0,2.0,hyundai,elantra,2017,147.0,4.0,MANUAL,front wheel drive,4.0,,Compact,Sedan,17150
+32,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,22350
+32,4.0,2.0,hyundai,elantra,2017,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,,Compact,Sedan,22750
+32,4.0,2.0,hyundai,elantra,2017,201.0,4.0,MANUAL,front wheel drive,4.0,,Compact,Sedan,21650
+32,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,20250
+29,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,18150
+29,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,22350
+29,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,18150
+29,4.0,2.0,hyundai,elantra,2017,128.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,,Compact,Sedan,20650
+29,4.0,2.0,hyundai,elantra,2017,147.0,4.0,MANUAL,front wheel drive,4.0,,Compact,Sedan,17150
+29,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,22350
+29,4.0,2.0,hyundai,elantra,2017,201.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,,Compact,Sedan,22750
+29,4.0,2.0,hyundai,elantra,2017,201.0,4.0,MANUAL,front wheel drive,4.0,,Compact,Sedan,21650
+29,4.0,2.0,hyundai,elantra,2017,147.0,4.0,AUTOMATIC,front wheel drive,4.0,,Compact,Sedan,20250
+22,6.0,3.6,cadillac,xt5,2017,310.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury",Midsize,4dr SUV,62500
+22,6.0,3.6,cadillac,xt5,2017,310.0,6.0,AUTOMATIC,front wheel drive,4.0,"Crossover,Luxury",Midsize,4dr SUV,51895
+22,6.0,3.6,cadillac,xt5,2017,310.0,6.0,AUTOMATIC,front wheel drive,4.0,"Crossover,Luxury",Midsize,4dr SUV,38995
+22,6.0,3.6,cadillac,xt5,2017,310.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury",Midsize,4dr SUV,47390
+22,6.0,3.6,cadillac,xt5,2017,310.0,6.0,AUTOMATIC,front wheel drive,4.0,"Crossover,Luxury",Midsize,4dr SUV,44895
+22,6.0,3.6,cadillac,xt5,2017,310.0,6.0,AUTOMATIC,all wheel drive,4.0,"Crossover,Luxury",Midsize,4dr SUV,54390
+36,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,MANUAL,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,14795
+36,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,MANUAL,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,12995
+36,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,AUTOMATIC,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,14195
+36,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,AUTOMATIC,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,15995
+36,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,AUTOMATIC,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,16495
+39,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,MANUAL,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,14795
+39,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,MANUAL,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,12995
+39,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,AUTOMATIC,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,14195
+39,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,AUTOMATIC,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,15995
+39,3.0,1.2,mitsubishi,mirage,2017,78.0,3.0,AUTOMATIC,front wheel drive,4.0,Hatchback,Compact,4dr Hatchback,16495
+22,6.0,3.6,chrysler,pacifica,2017,287.0,6.0,AUTOMATIC,front wheel drive,4.0,Performance,Midsize,Passenger Minivan,42495
+22,6.0,3.6,chrysler,pacifica,2017,287.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,30495
+22,6.0,3.6,chrysler,pacifica,2017,287.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,28595
+22,6.0,3.6,chrysler,pacifica,2017,287.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,37895
+22,6.0,3.6,chrysler,pacifica,2017,287.0,6.0,AUTOMATIC,front wheel drive,4.0,,Midsize,Passenger Minivan,34495
+112,,,mitsubishi,i-miev,2017,66.0,,DIRECT_DRIVE,rear wheel drive,4.0,Hatchback,Compact,4dr Hatchback,22995
+17,10.0,5.2,audi,r8,2017,540.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,162900
+17,10.0,5.2,audi,r8,2017,610.0,10.0,AUTOMATED_MANUAL,all wheel drive,2.0,"Luxury,High-Performance",Compact,Coupe,189900
+28,4.0,2.0,audi,a4,2017,252.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,37300
+28,4.0,2.0,audi,a4,2017,190.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Midsize,Sedan,34900
+28,4.0,2.0,audi,a4,2017,252.0,4.0,AUTOMATED_MANUAL,all wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,48000
+28,4.0,2.0,audi,a4,2017,252.0,4.0,AUTOMATED_MANUAL,all wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,43200
+28,4.0,2.0,audi,a4,2017,252.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,41100
+28,4.0,2.0,audi,a4,2017,252.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,45900
+28,4.0,2.0,audi,a4,2017,252.0,4.0,AUTOMATED_MANUAL,all wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,39400
+28,4.0,2.0,audi,a4,2017,190.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Midsize,Sedan,38700
+28,4.0,2.0,audi,a4,2017,190.0,4.0,AUTOMATED_MANUAL,front wheel drive,4.0,Luxury,Midsize,Sedan,37850
+28,4.0,2.0,audi,a4,2017,252.0,4.0,AUTOMATED_MANUAL,all wheel drive,4.0,"Luxury,Performance",Midsize,Sedan,42350
+23,4.0,2.0,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,39995
+23,4.0,2.0,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,26695
+23,4.0,2.0,subaru,wrx,2017,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,30195
+23,4.0,2.0,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,39995
+23,4.0,2.0,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,30995
+23,4.0,2.0,subaru,wrx,2017,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,32195
+23,4.0,2.0,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,28995
+23,4.0,2.0,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,35195
+21,4.0,2.0,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,39995
+21,4.0,2.0,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,26695
+21,4.0,2.0,subaru,wrx,2017,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,30195
+21,4.0,2.0,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,39995
+21,4.0,2.0,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,30995
+21,4.0,2.0,subaru,wrx,2017,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,32195
+21,4.0,2.0,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,28995
+21,4.0,2.0,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,35195
+19,4.0,2.5,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,39995
+19,4.0,2.5,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,26695
+19,4.0,2.5,subaru,wrx,2017,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,30195
+19,4.0,2.5,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,39995
+19,4.0,2.5,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,30995
+19,4.0,2.5,subaru,wrx,2017,268.0,4.0,AUTOMATIC,all wheel drive,4.0,Performance,Compact,Sedan,32195
+19,4.0,2.5,subaru,wrx,2017,268.0,4.0,MANUAL,all wheel drive,4.0,Performance,Compact,Sedan,28995
+19,4.0,2.5,subaru,wrx,2017,305.0,4.0,MANUAL,all wheel drive,4.0,"Factory Tuner,High-Performance",Compact,Sedan,35195
